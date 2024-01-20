@@ -1,1 +1,1 @@
-This was written with a GitHub action liuhaijiang.com | 520: Web server is returning an unknown error
+This was written with a GitHub action Python Design Patterns
